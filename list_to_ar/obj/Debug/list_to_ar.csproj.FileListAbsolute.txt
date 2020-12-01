@@ -1,0 +1,7 @@
+C:\Users\Gio\source\repos\list_to_ar\list_to_ar\bin\Debug\list_to_ar.exe.config
+C:\Users\Gio\source\repos\list_to_ar\list_to_ar\bin\Debug\list_to_ar.exe
+C:\Users\Gio\source\repos\list_to_ar\list_to_ar\bin\Debug\list_to_ar.pdb
+C:\Users\Gio\source\repos\list_to_ar\list_to_ar\obj\Debug\list_to_ar.csprojAssemblyReference.cache
+C:\Users\Gio\source\repos\list_to_ar\list_to_ar\obj\Debug\list_to_ar.csproj.CoreCompileInputs.cache
+C:\Users\Gio\source\repos\list_to_ar\list_to_ar\obj\Debug\list_to_ar.exe
+C:\Users\Gio\source\repos\list_to_ar\list_to_ar\obj\Debug\list_to_ar.pdb
